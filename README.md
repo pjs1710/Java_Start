@@ -1,4 +1,4 @@
-# Java_Inflearn
+# Java_Start
 
 기본기 다지는 중
 
